@@ -1,5 +1,5 @@
-### Hi there 👋
 
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 <!--
 **Charlene-Bx/Charlene-Bx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
